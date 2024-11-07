@@ -1,7 +1,7 @@
 /* Fuente Extralight */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Extralight.otf") format("opentype");
+    src: url("../font/Chillax-Extralight.otf") format("opentype");
     font-weight: 200; /* Extralight */
     font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* Fuente Light */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Light.otf") format("opentype");
+    src: url("../font/Chillax-Light.otf") format("opentype");
     font-weight: 300; /* Light */
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 /* Fuente Regular */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Regular.otf") format("opentype");
+    src: url("../font/Chillax-Regular.otf") format("opentype");
     font-weight: 400; /* Regular */
     font-style: normal;
 }
@@ -25,7 +25,7 @@
 /* Fuente Medium */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Medium.otf") format("opentype");
+    src: url("../font/Chillax-Medium.otf") format("opentype");
     font-weight: 500; /* Medium */
     font-style: normal;
 }
@@ -33,7 +33,7 @@
 /* Fuente Semibold */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Semibold.otf") format("opentype");
+    src: url("../font/Chillax-Semibold.otf") format("opentype");
     font-weight: 600; /* Semibold */
     font-style: normal;
 }
@@ -41,7 +41,7 @@
 /* Fuente Bold */
 @font-face {
     font-family: "Chillax";
-    src: url("/font/Chillax-Bold.otf") format("opentype");
+    src: url("../font/Chillax-Bold.otf") format("opentype");
     font-weight: 700; /* Bold */
     font-style: normal;
 }
@@ -59,7 +59,7 @@
 html {
     font-size: 16px;
     font-weight: 400;
-    font-family: "Chillax";
+    font-family: "Chillax", 'Trebuchet MS';
     color: var(--second-b-color);
     scroll-behavior: smooth;
 }
