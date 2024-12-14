@@ -33,7 +33,7 @@ El proyecto consiste en una página web con varias secciones (inicio, productos,
 ### 6. Subida del Proyecto
 - El proyecto está subido a **GitHub Pages** (o **Netlify** si se prefiere), y puede visualizarse en la siguiente URL:
 
-  [Repositorio del proyecto en GitHub](https://github.com/Martina-B-Salvatierra/TT---PreEntrega-de-Proyecto.git)
+  [Repositorio del proyecto en GitHub](https://github.com/Martina-B-Salvatierra/TT-PreEntrega-de-Proyecto.git)
 
 ## Estructura del Proyecto
 
